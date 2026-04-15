@@ -29,7 +29,7 @@ A simple command-line turn-based battle game built using Python. The player figh
 ## 📂 Project Structure
 
 ```id="9o8k2g"
-battle_simulator.py
+monster_arena.py
 README.md
 ```
 
@@ -46,7 +46,7 @@ README.md
 3. Run the script:
 
    ```
-   python3 battle_simulator.py
+   python3 monster_arena.py
    ```
 
 ---
