@@ -109,15 +109,7 @@ You strike Goblin for 15 damage!
 
 ---
 
-## 📌 Author
+## 📌 Author:Sudarshan
 
-Sudarshan
-B.Tech AI & ML Student
 
----
 
-## 💡 Note
-
-This project is designed for learning purposes to understand game logic, loops, and state management in Python.
-
----
